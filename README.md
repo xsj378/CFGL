@@ -6,3 +6,5 @@ The demand for personalized services across various fields, particularly in priv
 
 # Algorithm
 As depicted in figure, the proposed CFGL framework consists primarily of two key components: Structural Extraction (STE) and Preference Unlearning (PFU). These two components work in tandem to address the challenges of both personalized learning and preference-based model customization in a federated environment.
+
+<img src="/doc/overview.png" width="50%" height="50%">

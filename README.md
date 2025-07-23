@@ -18,3 +18,4 @@ The PFU module enables personalized model refinement by separating each client's
 <img src="/doc/pfu.png" width="50%" height="50%">
 
 Together, STE and PFU address structural and personalization challenges in federated learning while ensuring privacy and efficiency.  
+
